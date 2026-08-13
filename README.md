@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiskySka
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and Full Stack Development.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me .. dont.
 
 <!---
